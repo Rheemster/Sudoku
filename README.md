@@ -1,5 +1,5 @@
 # Sudoku
-A almost functioning sudoku game
+An almost functioning sudoku game
 
 ![image](https://github.com/Rheemster/Sudoku/blob/master/Screen%20Shot%202018-05-23%20at%201.51.51%20PM.png)
 
